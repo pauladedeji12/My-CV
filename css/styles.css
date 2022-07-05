@@ -1,0 +1,114 @@
+body{
+    color: #40415E;
+    margin: 0;
+text-align: center;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+h1{
+    color: #66bfbf;
+    font-family: 'Sacramento'  cursive;
+    font-size: 5.625em;
+    line-height: 1.5;
+    margin-top: 100px;
+    margin-bottom: auto;
+
+}
+a{
+      color: #66bfbf;
+    font-family:Arial, Helvetica, sans-serif ;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+a:hover{
+    color: #e4f9f5;
+}
+h2{  color: #66bfbf;
+    font-size: 2.5rem;
+    font-weight: lighter;
+}
+h3{
+    color: #11999e;
+}
+hr{
+    border: dotted;
+    color: #6f909b;
+    width: 4%;
+    border-top: none;
+    margin: 50px auto 50px auto;
+}
+p{
+    line-height: 2;
+    font-weight: bolder;
+}
+/*******************CLASS SELECTORS***************/
+.btn{
+    padding: 10px;
+    color: azure;
+    border-color: #40415E;
+    background-color: rgb(63, 122, 40);
+     font-size: 25px;
+    font-family:Arial, Helvetica, sans-serif ;
+    width: 150px;
+    height: 50px;
+    border-radius: 28px;
+    font-family: 'Sacramento'  cursive;
+    text-decoration: none;
+
+}
+.bottom-container{
+    background-color: #147c9e;
+    height: 50px;
+    border: 0px;
+    border-bottom: 20px;
+    padding-top: 30px;
+}
+
+.btn:hover{
+    background-color: rgb(187, 218, 17);
+}
+.contact{
+    width: 40%;
+    margin: 40px auto 30px auto;
+}
+.development{
+   width: 40%;
+    margin: 40px auto 60px auto;
+}
+.footer{
+    color: #e4f9f5;
+}
+.intro{
+    width: 24%;
+    margin: auto;
+}
+
+
+.topcloud{
+    position: absolute;
+    right: 200px;
+    
+}
+
+.bottomcloud{
+    position: absolute;
+
+}
+.firstcontainer{
+    background-color: #e4f9f5;
+    padding-top: 100px;
+    position: relative;
+
+}
+.pro{
+    text-decoration: underline;
+    
+}
+.middlecontainer{
+    padding-top: 100px;
+    margin-bottom: 100px;
+    
+}
+.mountain{
+    padding-bottom: 30px;
+}
